@@ -7,7 +7,7 @@ package domain;
 public class estudiante {
     private String nombre;
     private int edad;
-
+    private String text;
     
  
     public estudiante(String nombre, int edad) {
